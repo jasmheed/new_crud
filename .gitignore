@@ -41,3 +41,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# 🔥 Custom: Ignore Oracle JDK directory
+lib/features/home/screens/Oracle_JDK-23/
